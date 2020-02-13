@@ -1,3 +1,4 @@
+![headshot](Mohit%20Shrestha.jpg)
 # A little insight into Mohit Shrestha
 Hi Everyone! My name is Mohit Shrestha and I am  a data & analytics enthusiast. This README will give you a bit of information about me!
 
